@@ -1,4 +1,4 @@
-#System coding : Design Pubsub model
+# System coding : Design Pubsub model
 
 We have to design a message queue supporting publisher-subscriber model.
 It should support following operations:
